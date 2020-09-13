@@ -5,5 +5,5 @@ My main contribution to this project was:
 <li>generating_prime_numbers</li>
 <li>message_menu</li>
 ![Screenshots](https://github.com/Felly9217/RSA-Encryption/blob/master/RSA/RSA.PNG)</br>
-![Screenshots](https://github.com/Felly9217/RSA-Encryption/blob/master/RSA/RSA Encryption.PNG)</br>
+![Screenshots](https://github.com/Felly9217/RSA-Encryption/blob/master/RSA/RSA%20Encryption.PNG)</br>
 
